@@ -119,8 +119,8 @@ Run a controlled Test & Learn programme:
 
 ## Tools
 
-MySQL, SQL (CTEs, window functions, aggregate statistics), Difference-in-Differences, Test & Learn design.
+MySQL(CTEs, window functions, aggregate statistics), Test & Learn design.
 
 ## Author
 
-*Your name* | *LinkedIn / email*
+*Mansha Maulee*
